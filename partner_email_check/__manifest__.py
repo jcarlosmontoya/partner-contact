@@ -4,7 +4,7 @@
 
 {
     'name': 'Email Format Checker',
-    'version': '13.0.2.0.1',
+    'version': '12.0.2.0.1',
     'summary': 'Validate email address field',
     'author': "Komit, Odoo Community Association (OCA), Juan Carlos Montoya",
     'website': 'https://github.com/OCA/partner-contact',
